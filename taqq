@@ -1,0 +1,61 @@
+[33mcommit f2bc003c08bcdd566fb9fc8ec0ac909774906af7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: unknown <5ecant>
+Date:   Thu Sep 4 19:35:11 2025 +0900
+
+    v1.0 abstract class
+
+[33mcommit 421b4605bbefa6d47417b552845e791770eb7c9c[m
+Merge: e56a305 2ddd520
+Author: unknown <5ecant>
+Date:   Thu Aug 28 21:43:50 2025 +0900
+
+    v0.9
+
+[33mcommit e56a3051311bfdd202912e46b74deaf1e519ae39[m
+Author: unknown <5ecant>
+Date:   Thu Aug 28 21:42:07 2025 +0900
+
+    v0.8 remoda
+
+[33mcommit 2ddd520fffae483551dc28dfea0b6d2f96d17a1e[m
+Author: 5ecant <lukelyh@naver.com>
+Date:   Thu Aug 28 21:41:16 2025 +0900
+
+    v0.8 Data type and casting
+
+[33mcommit d2e9938b49f6a1c60bd68e78189da35822d300ca[m
+Merge: 287e487 40b04fc
+Author: unknown <5ecant>
+Date:   Thu Aug 28 21:33:13 2025 +0900
+
+    v0.6 DataType & Casting
+
+[33mcommit 287e487cfd9469481275468592fbee806189b15f[m
+Author: unknown <5ecant>
+Date:   Thu Aug 28 21:32:07 2025 +0900
+
+    v0.5 DataType & Casting
+
+[33mcommit 40b04fc884a982d1277db9326c1c96a2d900d901[m
+Author: 5ecant <lukelyh@naver.com>
+Date:   Thu Aug 28 21:30:40 2025 +0900
+
+    v0.5 DataType & Casting
+
+[33mcommit 9466a7baaab3554aaca543ed23ae060155817416[m
+Author: unknown <5ecant>
+Date:   Thu Aug 28 20:36:05 2025 +0900
+
+    v0.5 datatype & caseting
+
+[33mcommit c75b7ca4b96475160878b02114ce2c683f66abad[m
+Author: unknown <5ecant>
+Date:   Thu Aug 28 19:47:56 2025 +0900
+
+    v0.4 README.md
+
+[33mcommit 41f4a4e56eb524fdb01f5fcd5fdff0f8dbd70d1e[m
+Author: unknown <5ecant>
+Date:   Thu Aug 21 21:07:12 2025 +0900
+
+    v0.3 helloworld
