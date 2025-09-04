@@ -16,10 +16,10 @@ public class PoketmonGame {
         ggo.hp = 100;
         System.out.println(pikacu.hp);
 
-        if (pikacu.hp > 100) {
-            System.out.println("조직력이 낮습니다!");
+        if (pikacu.hp > ggo.hp) {
+            System.out.println("꼬부기의 체력보다 높습니다! (현재 체력: " + pikacu.hp + ")" );
         }else{
-            System.out.println("ㅁㄴㅇㄹ");
+            System.out.println("꼬부기의 체력보다 낮습니다! (현재 체력: " + pikacu.hp + ")" );
         }
     }
 }
